@@ -1,0 +1,2 @@
+JourneyDuration INT,JourneyID INT,EndDate INT,EndMonth INT,EndYear INT,EndHour INT,EndMinute INT,EndStationID INT,StartDate INT,StartMonth INT,StartYear INT,StartHour INT,StartMinute INT,StartStationID INT
+1800,12581,19,9,17,15,21,122,19,9,17,14,51,550
