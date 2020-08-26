@@ -23,7 +23,7 @@ A 36-day record of journeys made from 1 August to 13 September 2017 in London bi
     CREATE DATABASE londonbikedata;
 
 3. ###### Create Tables 
-    using your preferred client connect to HS2 and rin the HQ from both stations.hql and    journeys.hql (remember to adjust the location to your HDFS paths or remove if not required)
+    using your preferred client connect to HS2 and run the HQL from both stations.hql and    journeys.hql (remember to adjust the location to your HDFS paths or remove if not required)
 
 4. ###### Station Data
     copy the staiions.csv into the HDFS Path created in step 1 /PATH/lbd/stations
