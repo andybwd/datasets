@@ -28,5 +28,5 @@ Jonathan Krause, Michael Stark, Jia Deng, Li Fei-Fei
 
 __Licence:__ Research Only see above citation 
 
-#### ### ADLS Gen1 Data Uploder 
+#### ADLS Gen1 Data Uploader 
 A python script that allows batch upload of a directory of files to ADLS Gen 1 with Fusion repairs being initiated at then of each batch upload  
