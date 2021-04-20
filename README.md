@@ -5,6 +5,7 @@ Datasets for use with stuff
 
 ### Cars (Pics)
 
+### ADLS Gen1 Data Uploder 
 
 #### London Bike Data Summary
 A 36-day record of journeys made from 1 August to 13 September 2017 in London bike sharing system were recorded. During this period, there were >1.5 million journeys made among >700 bike docking stations in London.
@@ -22,3 +23,6 @@ Jonathan Krause, Michael Stark, Jia Deng, Li Fei-Fei
 4th IEEE Workshop on 3D Representation and Recognition, at ICCV 2013 (3dRR-13). Sydney, Australia. Dec. 8, 2013.
 
 __Licence:__ Research Only see above citation 
+
+#### ### ADLS Gen1 Data Uploder 
+A python script that allows batch upload of a directory of files to ADLS Gen 1 with Fusion repairs being initiated at then of each batch upload  
